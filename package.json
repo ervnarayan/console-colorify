@@ -1,0 +1,29 @@
+{
+  "name": "console-colorify",
+  "version": "1.0.0",
+  "description": "A library tp colorify console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ervnarayan/console-colorify.git"
+  },
+  "keywords": [
+    "Color Console logs",
+    "Colorify logs"
+  ],
+  "author": "Vivek Narayan <ervnarayan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ervnarayan/console-colorify/issues"
+  },
+  "homepage": "https://github.com/ervnarayan/console-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "files": ["lib/**/*"]
+}
