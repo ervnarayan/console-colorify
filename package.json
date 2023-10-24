@@ -1,5 +1,5 @@
 {
-  "name": "console-colorify",
+  "name": "console-colorify-log",
   "version": "1.0.0",
   "description": "A library tp colorify console logs",
   "main": "lib/index.js",
